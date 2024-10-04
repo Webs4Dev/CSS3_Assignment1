@@ -1,0 +1,58 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    display:inline-block;
+ 
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+
+main{
+    background-color:violet;
+    color:black;
+    line-height: 100% ;
+}
+
+h1{
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+nav{
+    background-color: deepskyblue;
+}
+
+header{
+    background-color:violet;
+    text-align:center;
+    
+}
+
+li{
+    display: inline-block;
+    width: 20%;
+}
+
+footer{
+    background-color:wheat;
+    color: black;
+    line-height: 150%;
+    
+}
+
+img{
+    width: 20%;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+
+div{
+    text-align: center;
+}
